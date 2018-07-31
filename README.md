@@ -1,56 +1,26 @@
 # Bootstrap-Portfolio
 
-Description
+* Create a responsive porfolio design using Bootstrap's grid layout and online framework
+* Responsiveness allows for screen adaptation - the porfolio will adapt to any screen size and device orientation
+* Powered by BootstrapCDN v4.1.0
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Follow the project link below to explore the page!
 
 ### Prerequisites
 
 The page can be run from any browser, preferably on Google Chrome!
 
-### Installing
+# Deployed Project Link
+<!-- make a link to the deployed site -->
+ 
+[Bootstrap-Portfolio](https://sajeelmalik.github.io/Bootstrap-Portfolio/)
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+# Image Preview of Bootstrap Portfolio
+<!-- take a picture of the image and add it into the readme  -->
+![Bootstrap Portfolio]()
 
 ## Technology Used
 
@@ -58,13 +28,15 @@ Add additional notes about how to deploy this on a live system
 * CSS3
 * [BootstrapCDN v4.1.0](https://getbootstrap.com/docs/4.1/getting-started/introduction/) - the open-source web framework utilized for introducing responsive design elements
 
-## Contributing
+# Code Snippets
+<!-- put snippets of code inside ``` ``` so it will look like code -->
+<!-- if you want to put blockquotes use a > -->
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Using the Bootstrap framework as a launchpad, more specialized and customized components can be created, such as the Navbar below:
+```
 
-## Versioning
+```
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
