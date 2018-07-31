@@ -20,7 +20,7 @@ The page can be run from any browser, preferably on Google Chrome!
 
 # Image Preview of Bootstrap Portfolio
 <!-- take a picture of the image and add it into the readme  -->
-![Bootstrap Portfolio]()
+![Bootstrap Portfolio](https://raw.githubusercontent.com/sajeelmalik/Bootstrap-Portfolio/master/Bootstrap-Portfolio.JPG)
 
 ## Technology Used
 
